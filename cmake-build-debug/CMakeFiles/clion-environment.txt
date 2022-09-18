@@ -1,0 +1,4 @@
+ToolSet: 17.0 (local)@F:\MVS\2022
+Options: msvc.arch=x86_amd64
+
+Options:
